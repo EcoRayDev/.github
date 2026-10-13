@@ -1,8 +1,8 @@
 name: Refresh Instagram profile feed
 
+# Manual only: GitHub-hosted runners are rate-limited by Instagram (HTTP 429).
+# The daily refresh runs from Freyr via scripts/refresh_feed.sh.
 on:
-  schedule:
-    - cron: "17 8 * * *"
   workflow_dispatch:
 
 permissions:

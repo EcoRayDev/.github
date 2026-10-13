@@ -11,11 +11,13 @@ Any failure — Instagram blocking logged-out access, a login wall, fewer than s
 
 ## Reliability
 
-This is not an official API. Instagram can change its page or block logged-out visitors from datacenter IPs at any time; when that happens the workflow fails and the last good grid stays up. There is no retry, proxy, or login fallback. If the feed stops updating for long, check the workflow logs. The fallback is Meta's official API with a long-lived token in a repository secret.
+This is not an official API. Instagram rate-limits logged-out requests from datacenter IPs: GitHub-hosted runners get HTTP 429, so the refresh runs from Freyr, a server on a residential connection. Instagram can still change its page or block that IP; when it does, the run fails and the last good grid stays up. There is no retry, proxy, or login fallback. If the feed stops updating, check `journalctl --user -u ecoray-instagram-feed` on Freyr.
 
-## Workflow
+## Schedule
 
-`.github/workflows/instagram-feed.yml` runs daily and on manual dispatch on a standard GitHub-hosted Ubuntu runner, using GitHub's built-in token with only `contents: write`. It installs the pinned Playwright Chromium, runs both scripts, and commits the refreshed README and images directly to the default branch only when they changed. A failed fetch or validation commits nothing.
+Freyr runs `scripts/refresh_feed.sh` daily from a systemd user timer (`ecoray-instagram-feed.timer`). The script pulls `main`, runs both scripts inside the pinned `mcr.microsoft.com/playwright` image, and commits and pushes the README and images only when they changed. A failed fetch or validation commits nothing.
+
+`.github/workflows/instagram-feed.yml` is manual-dispatch only and kept for reference; it fails on GitHub-hosted runners with HTTP 429.
 
 ## Local testing
 
