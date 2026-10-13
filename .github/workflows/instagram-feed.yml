@@ -1,0 +1,68 @@
+name: Refresh Instagram profile feed
+
+on:
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: instagram-profile-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install browser tooling
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+      - name: Reuse automation branch when present
+        env:
+          BASE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if git ls-remote --exit-code --heads origin automation/instagram-feed >/dev/null 2>&1; then
+            git fetch origin automation/instagram-feed
+            git switch -C automation/instagram-feed FETCH_HEAD
+          else
+            git switch -c automation/instagram-feed
+          fi
+          git fetch origin "$BASE_BRANCH"
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" merge --no-edit "origin/$BASE_BRANCH"
+      - name: Fetch anonymous Instagram posts
+        run: node scripts/fetch_instagram_posts.mjs --output "$RUNNER_TEMP/instagram-posts.json"
+
+      - name: Update generated Instagram feed
+        run: python3 scripts/update_instagram_feed.py --posts "$RUNNER_TEMP/instagram-posts.json"
+      - name: Open or update review pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BASE_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md profile/assets/instagram
+          if git diff --cached --quiet; then
+            echo "Instagram feed is unchanged."
+            exit 0
+          fi
+          git commit -m "chore(profile): refresh Instagram feed"
+          git push origin automation/instagram-feed
+          if [ "$(gh pr list --repo "$GITHUB_REPOSITORY" --state open --head automation/instagram-feed --json number --jq 'length')" -eq 0 ]; then
+            gh pr create --repo "$GITHUB_REPOSITORY" --base "$BASE_BRANCH" --head automation/instagram-feed --title "chore(profile): refresh Instagram feed" --body "Automated update of the six most recent public Instagram posts. Review before merging; this workflow never merges or publishes."
+          fi
