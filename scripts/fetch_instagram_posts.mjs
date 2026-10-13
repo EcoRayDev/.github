@@ -120,7 +120,7 @@ async function fetchPosts() {
     timer.unref();
     try {
       const response = await page.goto(PROFILE_URL, { waitUntil: 'domcontentloaded', timeout: OUTPUT_TIMEOUT_MS });
-      if (!response || response.status() >= 400) throw new Error('Instagram profile could not be loaded');
+      if (!response || response.status() >= 400) throw new Error(`Instagram profile could not be loaded (HTTP ${response ? response.status() : 'none'})`);
       const login = await page.locator('input[name="username"], form[action*="/accounts/login"]').count().catch(() => 0);
       if (login || /accounts\/login|challenge|checkpoint/.test(page.url())) throw new Error('Instagram requires login or account verification');
       await declineOptionalCookies(page);
@@ -160,8 +160,8 @@ async function main() {
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(resolve(process.argv[1])).href) {
-  main().catch(() => {
-    process.stderr.write('Instagram public feed fetch failed.\n');
+  main().catch((error) => {
+    process.stderr.write(`Instagram public feed fetch failed: ${error instanceof Error ? error.message.split('\n')[0].slice(0, 200) : 'unknown error'}\n`);
     process.exitCode = 1;
   });
 }
