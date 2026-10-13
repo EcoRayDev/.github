@@ -15,7 +15,7 @@ This is not an official API. Instagram can change its page or block logged-out v
 
 ## Workflow
 
-`.github/workflows/instagram-feed.yml` runs daily and on manual dispatch, on a standard GitHub-hosted Ubuntu runner, using GitHub's built-in token with `contents: write` and `pull-requests: write`. It installs the pinned Playwright Chromium and runs both scripts. When the generated files change, it opens or updates a review pull request from `automation/instagram-feed`. It never merges or publishes. Enable "Allow GitHub Actions to create and approve pull requests" in repository settings.
+`.github/workflows/instagram-feed.yml` runs daily and on manual dispatch on a standard GitHub-hosted Ubuntu runner, using GitHub's built-in token with only `contents: write`. It installs the pinned Playwright Chromium, runs both scripts, and commits the refreshed README and images directly to the default branch only when they changed. A failed fetch or validation commits nothing.
 
 ## Local testing
 

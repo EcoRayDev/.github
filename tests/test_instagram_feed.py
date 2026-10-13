@@ -45,6 +45,17 @@ class InstagramFeedTests(unittest.TestCase):
         posts[5]["caption"] = "oldest"
         self.assertEqual(feed.validate_posts(posts), posts)
 
+    def test_rejects_any_post_count_other_than_six(self):
+        # A partially blocked page must never shrink or blank the published grid.
+        for count in (0, 5, 7):
+            with self.subTest(count=count):
+                posts = (posts_fixture() * 2)[:count]
+                for index, post in enumerate(posts):
+                    post["id"] = f"code{index}"
+                    post["permalink"] = f"https://www.instagram.com/p/code{index}/"
+                with self.assertRaises(feed.FeedError):
+                    feed.validate_posts(posts)
+
     def test_rejects_duplicate_ids_or_permalink_and_wrong_permalink_path(self):
         posts = posts_fixture()
         posts[1]["id"] = posts[0]["id"]
