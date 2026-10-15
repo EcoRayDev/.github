@@ -20,7 +20,9 @@ if git diff --cached --quiet; then
   echo "Instagram feed is unchanged."
   exit 0
 fi
-git -c user.name="EcoRay Instagram feed" -c user.email="noreply@ecoray.dk" \
+# This unattended bot must not inherit a workstation personal GPG signing key.
+git -c commit.gpgsign=false \
+  -c user.name="EcoRay Instagram feed" -c user.email="noreply@ecoray.dk" \
   commit --quiet -m "chore(profile): refresh Instagram feed"
 git push --quiet origin HEAD:main
 echo "Instagram feed updated and pushed."
