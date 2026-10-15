@@ -29,14 +29,14 @@ We build software for solar planning, home energy management and the operations 
 
 <table><tbody>
 <tr>
-<td align="center"><a href="https://www.instagram.com/p/DebwGkWEYYU/"><img src="assets/instagram/DebwGkWEYYU.jpg" alt="Photo by EcoRay on October 13, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DebSXKSs5rf/"><img src="assets/instagram/DebSXKSs5rf.jpg" alt="Video by EcoRay on October 13, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/DeY66R9D-9b/"><img src="assets/instagram/DeY66R9D-9b.jpg" alt="Photo by EcoRay on October 12, 2026. May be an image of lighting, sliding door, window and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DegqGdwMF4f/"><img src="assets/instagram/DegqGdwMF4f.jpg" alt="Video by EcoRay on October 15, 2026. May be an image of book and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/DegpLt2iL6i/"><img src="assets/instagram/DegpLt2iL6i.jpg" alt="Photo by EcoRay on October 15, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DeeCqssNoKL/"><img src="assets/instagram/DeeCqssNoKL.jpg" alt="Video by EcoRay on October 14, 2026. May be an image of text." width="200"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.instagram.com/reel/DeYtxI8soXy/"><img src="assets/instagram/DeYtxI8soXy.jpg" alt="Video by EcoRay on October 12, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/DeTxFCKGzGD/"><img src="assets/instagram/DeTxFCKGzGD.jpg" alt="Photo by EcoRay on October 10, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/DeRMwOWG36_/"><img src="assets/instagram/DeRMwOWG36_.jpg" alt="Photo by EcoRay on October 09, 2026. May be an image of water heater, generator, air conditioner, thermostat and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/Ded6MwuFBCb/"><img src="assets/instagram/Ded6MwuFBCb.jpg" alt="Photo by EcoRay on October 14, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/DebwGkWEYYU/"><img src="assets/instagram/DebwGkWEYYU.jpg" alt="Photo by EcoRay on October 13, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DebSXKSs5rf/"><img src="assets/instagram/DebSXKSs5rf.jpg" alt="Video by EcoRay on October 13, 2026. May be an image of text." width="200"></a></td>
 </tr>
 </tbody></table>
 
