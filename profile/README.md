@@ -29,14 +29,14 @@ We build software for solar planning, home energy management and the operations 
 
 <table><tbody>
 <tr>
+<td align="center"><a href="https://www.instagram.com/reel/Dey_iAHEiBT/"><img src="assets/instagram/Dey_iAHEiBT.jpg" alt="Video by EcoRay on October 22, 2026. May be a meme of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DeyuDzyMkYh/"><img src="assets/instagram/DeyuDzyMkYh.jpg" alt="Video by EcoRay on October 22, 2026. May be a graphic of poster and text." width="200"></a></td>
 <td align="center"><a href="https://www.instagram.com/p/Dev8pdXily1/"><img src="assets/instagram/Dev8pdXily1.jpg" alt="Photo by EcoRay on October 21, 2026. May be an image of outdoors and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/DetkHa5iUjR/"><img src="assets/instagram/DetkHa5iUjR.jpg" alt="Photo by EcoRay on October 20, 2026. May be an image of the Cotswolds and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/Detd2-Zs6HZ/"><img src="assets/instagram/Detd2-Zs6HZ.jpg" alt="Video by EcoRay on October 20, 2026. May be an image of text." width="200"></a></td>
 </tr>
 <tr>
+<td align="center"><a href="https://www.instagram.com/p/DetkHa5iUjR/"><img src="assets/instagram/DetkHa5iUjR.jpg" alt="Photo by EcoRay on October 20, 2026. May be an image of the Cotswolds and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Detd2-Zs6HZ/"><img src="assets/instagram/Detd2-Zs6HZ.jpg" alt="Video by EcoRay on October 20, 2026. May be an image of text." width="200"></a></td>
 <td align="center"><a href="https://www.instagram.com/reel/DetPzA1s9DK/"><img src="assets/instagram/DetPzA1s9DK.jpg" alt="Video by EcoRay on October 20, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/Deq-UBkCKZ2/"><img src="assets/instagram/Deq-UBkCKZ2.jpg" alt="Photo by EcoRay on October 19, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/Deqt5v4sx8P/"><img src="assets/instagram/Deqt5v4sx8P.jpg" alt="Video by EcoRay on October 19, 2026. May be an image of outdoors and text." width="200"></a></td>
 </tr>
 </tbody></table>
 
