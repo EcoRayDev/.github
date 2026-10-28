@@ -29,14 +29,14 @@ We build software for solar planning, home energy management and the operations 
 
 <table><tbody>
 <tr>
+<td align="center"><a href="https://www.instagram.com/reel/DfB23MEs8to/"><img src="assets/instagram/DfB23MEs8to.jpg" alt="Video by EcoRay on October 28, 2026. May be an image of poster and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/De_lVEfiLlq/"><img src="assets/instagram/De_lVEfiLlq.jpg" alt="Photo by EcoRay on October 27, 2026. May be an image of text." width="200"></a></td>
 <td align="center"><a href="https://www.instagram.com/p/De9G-JGCE8y/"><img src="assets/instagram/De9G-JGCE8y.jpg" alt="Photo by EcoRay on October 26, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/De81hNzMShv/"><img src="assets/instagram/De81hNzMShv.jpg" alt="Video by EcoRay on October 26, 2026. May be an illustration of digital watch, timer, thermostat and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/De6iGSXCs1N/"><img src="assets/instagram/De6iGSXCs1N.jpg" alt="Photo by EcoRay on October 25, 2026. May be an image of text." width="200"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.instagram.com/p/De4AQEniEXi/"><img src="assets/instagram/De4AQEniEXi.jpg" alt="Photo by EcoRay on October 24, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/De1RmTkFeLp/"><img src="assets/instagram/De1RmTkFeLp.jpg" alt="Photo by EcoRay on October 23, 2026. May be an image of water heater, speaker, generator, thermostat, air conditioner and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/Dey_iAHEiBT/"><img src="assets/instagram/Dey_iAHEiBT.jpg" alt="Video by EcoRay on October 22, 2026. May be a meme of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/De81hNzMShv/"><img src="assets/instagram/De81hNzMShv.jpg" alt="Video by EcoRay on October 26, 2026. May be an illustration of digital watch, timer, thermostat and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/De80j9eMU-U/"><img src="assets/instagram/De80j9eMU-U.jpg" alt="Video by EcoRay on October 26, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/De6iGSXCs1N/"><img src="assets/instagram/De6iGSXCs1N.jpg" alt="Photo by EcoRay on October 25, 2026. May be an image of text." width="200"></a></td>
 </tr>
 </tbody></table>
 
