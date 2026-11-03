@@ -29,14 +29,14 @@ We build software for solar planning, home energy management and the operations 
 
 <table><tbody>
 <tr>
+<td align="center"><a href="https://www.instagram.com/reel/DfPaxLODPns/"><img src="assets/instagram/DfPaxLODPns.jpg" alt="Video by EcoRay on November 02, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/DfPOM3FiEWm/"><img src="assets/instagram/DfPOM3FiEWm.jpg" alt="Photo by EcoRay on November 02, 2026. May be an image of the Cotswolds and text." width="200"></a></td>
 <td align="center"><a href="https://www.instagram.com/p/DfNHQNciNof/"><img src="assets/instagram/DfNHQNciNof.jpg" alt="Photo by EcoRay on November 01, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfMiI7DCc70/"><img src="assets/instagram/DfMiI7DCc70.jpg" alt="Video by EcoRay on November 01, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/DfKLT-HCI-D/"><img src="assets/instagram/DfKLT-HCI-D.jpg" alt="Photo by EcoRay on October 31, 2026. May be an image of text." width="200"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.instagram.com/reel/DfHUVDpgil6/"><img src="assets/instagram/DfHUVDpgil6.jpg" alt="Video by EcoRay on October 30, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/DfEulh1CvXd/"><img src="assets/instagram/DfEulh1CvXd.jpg" alt="Photo by EcoRay on October 29, 2026. May be an image of the Cotswolds and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfEsJoosUJI/"><img src="assets/instagram/DfEsJoosUJI.jpg" alt="Video by EcoRay on October 29, 2026. May be an image of generator and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DfMiI7DCc70/"><img src="assets/instagram/DfMiI7DCc70.jpg" alt="Video by EcoRay on November 01, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/DfKLT-HCI-D/"><img src="assets/instagram/DfKLT-HCI-D.jpg" alt="Photo by EcoRay on October 31, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DfJ7g11s8N8/"><img src="assets/instagram/DfJ7g11s8N8.jpg" alt="Video by EcoRay on October 31, 2026. May be an image of text." width="200"></a></td>
 </tr>
 </tbody></table>
 
