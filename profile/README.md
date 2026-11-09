@@ -29,14 +29,14 @@ We build software for solar planning, home energy management and the operations 
 
 <table><tbody>
 <tr>
+<td align="center"><a href="https://www.instagram.com/reel/DfehLvTAnEe/"><img src="assets/instagram/DfehLvTAnEe.jpg" alt="Video by EcoRay on November 08, 2026. May be a Twitter screenshot of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Dfef0QZMYWj/"><img src="assets/instagram/Dfef0QZMYWj.jpg" alt="Video by EcoRay on November 08, 2026. May be an image of text." width="200"></a></td>
 <td align="center"><a href="https://www.instagram.com/p/Dfb-JRvoVFV/"><img src="assets/instagram/Dfb-JRvoVFV.jpg" alt="Photo by EcoRay on November 07, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/DfZhmyAiDYb/"><img src="assets/instagram/DfZhmyAiDYb.jpg" alt="Photo by EcoRay on November 06, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfZMwQksYUj/"><img src="assets/instagram/DfZMwQksYUj.jpg" alt="Video by EcoRay on November 06, 2026. May be an image of battery and text." width="200"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.instagram.com/reel/DfZMMjHM-Ig/"><img src="assets/instagram/DfZMMjHM-Ig.jpg" alt="Video by EcoRay on November 06, 2026. May be an image of poster, plant and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfZMHPXs5dk/"><img src="assets/instagram/DfZMHPXs5dk.jpg" alt="Video by EcoRay on November 06, 2026. May be an image of battery and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfZKB8AMiW1/"><img src="assets/instagram/DfZKB8AMiW1.jpg" alt="Video by EcoRay on November 06, 2026. May be an image of car, poster and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DfbkMB6MWSZ/"><img src="assets/instagram/DfbkMB6MWSZ.jpg" alt="Video by EcoRay on November 06, 2026. May be an image of sparrow, capacitor and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Dfbfe9uswDG/"><img src="assets/instagram/Dfbfe9uswDG.jpg" alt="Video by EcoRay on November 06, 2026. May be a meme of chocolate bar and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DfbfKA-Mzwr/"><img src="assets/instagram/DfbfKA-Mzwr.jpg" alt="Video by EcoRay on November 06, 2026. May be a meme of car, box and text." width="200"></a></td>
 </tr>
 </tbody></table>
 
