@@ -29,14 +29,14 @@ We build software for solar planning, home energy management and the operations 
 
 <table><tbody>
 <tr>
+<td align="center"><a href="https://www.instagram.com/p/DfrXcRniCLs/"><img src="assets/instagram/DfrXcRniCLs.jpg" alt="Photo by EcoRay on November 13, 2026. May be an image of sliding door and text." width="200"></a></td>
 <td align="center"><a href="https://www.instagram.com/p/DfpcfXgISuK/"><img src="assets/instagram/DfpcfXgISuK.jpg" alt="Photo by EcoRay on November 12, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfmsyXfM0ct/"><img src="assets/instagram/DfmsyXfM0ct.jpg" alt="Video by EcoRay on November 11, 2026. May be an image of dishwasher, refrigerator and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfmOdUDMOVj/"><img src="assets/instagram/DfmOdUDMOVj.jpg" alt="Video by EcoRay on November 11, 2026. May be an image of thermostat and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Dfox97AIGy2/"><img src="assets/instagram/Dfox97AIGy2.jpg" alt="Video by EcoRay on November 12, 2026. May be a meme of phone, screen and text." width="200"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.instagram.com/p/DfmJE1nG4Mj/"><img src="assets/instagram/DfmJE1nG4Mj.jpg" alt="Photo by EcoRay on November 11, 2026. May be an image of text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfmIdpWMFxU/"><img src="assets/instagram/DfmIdpWMFxU.jpg" alt="Video by EcoRay on November 11, 2026. May be an image of phone, screen and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/DfkH1LPshha/"><img src="assets/instagram/DfkH1LPshha.jpg" alt="Video by EcoRay on November 10, 2026. May be an image of thermostat, screen, poster and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Dfowg1BIHC7/"><img src="assets/instagram/Dfowg1BIHC7.jpg" alt="Video by EcoRay on November 12, 2026. May be an image of lighting, lightbulb and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DfoweNMovEG/"><img src="assets/instagram/DfoweNMovEG.jpg" alt="Video by EcoRay on November 12, 2026. May be an image of screen, poster, card, night and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/DfowbBVolLL/"><img src="assets/instagram/DfowbBVolLL.jpg" alt="Video by EcoRay on November 12, 2026. May be an image of air conditioner, refrigerator, cooler, dishwasher and text." width="200"></a></td>
 </tr>
 </tbody></table>
 
