@@ -29,14 +29,14 @@ We build software for solar planning, home energy management and the operations 
 
 <table><tbody>
 <tr>
-<td align="center"><a href="https://www.instagram.com/p/Df9lBOjCGMr/"><img src="assets/instagram/Df9lBOjCGMr.jpg" alt="Photo by EcoRay on November 20, 2026. May be an image of the Cotswolds and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/Df9EbSRB26q/"><img src="assets/instagram/Df9EbSRB26q.jpg" alt="Video by EcoRay on November 19, 2026. May be an image of car and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/p/Df7eIq8CAza/"><img src="assets/instagram/Df7eIq8CAza.jpg" alt="Photo by EcoRay on November 19, 2026. May be an image of lighting and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/DgABUh1CPDY/"><img src="assets/instagram/DgABUh1CPDY.jpg" alt="Photo by EcoRay on November 21, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Df-hJGjJGwV/"><img src="assets/instagram/Df-hJGjJGwV.jpg" alt="Video by EcoRay on November 20, 2026. May be an image of text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Df-W1_sh4Lj/"><img src="assets/instagram/Df-W1_sh4Lj.jpg" alt="Video by EcoRay on November 20, 2026. May be an image of generator, windmill and text." width="200"></a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.instagram.com/reel/Df7WjNny-Zv/"><img src="assets/instagram/Df7WjNny-Zv.jpg" alt="Video by EcoRay on November 19, 2026. May be an image of car, capacitor, copper, battery and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/Df67GLshph3/"><img src="assets/instagram/Df67GLshph3.jpg" alt="Video by EcoRay on November 19, 2026. May be an image of wristband and text." width="200"></a></td>
-<td align="center"><a href="https://www.instagram.com/reel/Df366mxC0Cb/"><img src="assets/instagram/Df366mxC0Cb.jpg" alt="Video by EcoRay on November 17, 2026. May be an image of sedan, snow and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Df97bhWv7Bt/"><img src="assets/instagram/Df97bhWv7Bt.jpg" alt="Video by EcoRay on November 20, 2026. May be an image of silo, plant, oil refinery and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/p/Df9lBOjCGMr/"><img src="assets/instagram/Df9lBOjCGMr.jpg" alt="Photo by EcoRay on November 20, 2026. May be an image of the Cotswolds and text." width="200"></a></td>
+<td align="center"><a href="https://www.instagram.com/reel/Df9EbSRB26q/"><img src="assets/instagram/Df9EbSRB26q.jpg" alt="Video by EcoRay on November 19, 2026. May be an image of car and text." width="200"></a></td>
 </tr>
 </tbody></table>
 
